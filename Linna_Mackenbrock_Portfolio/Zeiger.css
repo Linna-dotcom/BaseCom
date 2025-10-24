@@ -18,3 +18,25 @@
     align-items: center;
     justify-content: center;
 }
+
+#pfeilbeschreibung {
+    line-height: 14px;
+    text-align: center;
+    padding: 14px;
+    gap: 25px; 
+}
+
+#zeigerüberschrift {
+    text-align: center;
+}
+
+#Zeiger {
+    display: flex;
+    flex-direction: column;
+}
+
+#strich {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

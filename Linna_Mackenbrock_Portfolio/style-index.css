@@ -14,7 +14,7 @@ body {
 #vorstellung {
     display: flex;
     justify-content: center;
-    gap: 25px;
+    gap: 25px; 
 }
 
 #Lampenfunktion {
