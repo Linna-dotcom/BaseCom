@@ -1,0 +1,19 @@
+#zeiger {
+    background-image: url("zeiger.png");
+    background-color: rgb(255, 255, 255);
+    height: 159px; 
+    width: 317px;
+    border-radius: 50%;
+    border-radius: 20px; 
+    position: relative;
+    transform-origin: center; /* Drehpunkt ist die Mitte */
+    transition: transform 0,05s linear; /* bewegung wird flüssig */
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

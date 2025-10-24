@@ -1,0 +1,85 @@
+#betti {
+    background-color: rgb(255, 255, 255);
+    height: 1200px; 
+    width: 900px;
+    display: flex;
+    justify-content:center;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+#susi {
+    background-color: rgb(255, 255, 255);
+    height: 626,4px; 
+    width: 1392px;
+    display: flex;
+    justify-content:center;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+#rosa {
+    background-color: rgb(255, 255, 255);
+    height: 1392px; 
+    width: 626,4px;
+    display: flex;
+    justify-content:center;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+button {
+    height: 100px; 
+    width: 240px;
+    background-color: rgb(131, 131, 131);
+    border-radius: 75px; 
+    color:rgb(255, 255, 255);
+    margin: 20px;
+    padding: 3px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
+    padding: 3px;
+
+}
+
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 15px;
+    padding: 3px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 3px;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin: 15px;
+    padding: 15px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+
+img {
+    border-style: dashed;
+    border-width: 1px;
+    border-color:  rgb(114, 114, 114);
+}
+
